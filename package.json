@@ -1,0 +1,17 @@
+{
+  "name": "bt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Большое путешествие",
+  "scripts": {
+    "eslint": "eslint src/",
+    "test": "npm run eslint"
+  },
+  "devDependencies": {
+    "eslint": "7.13.0",
+    "eslint-config-htmlacademy": "3.0.0"
+  },
+  "engines": {
+    "node": "10"
+  }
+}
